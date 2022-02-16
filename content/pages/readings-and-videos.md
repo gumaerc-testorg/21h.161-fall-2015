@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings and Videos
 uid: f7f18db0-330d-5981-cb35-d9c0b0d2bb61
 ---
@@ -55,7 +57,7 @@ Andrews, Thomas, and Flannery Burke. "[What Does it Mean to Think Historically?]
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Introduction and Overview: The Middle East in the 19th Century: Reform and "Decline"
+Introduction and Overview: The Middle East in the 19{{< sup "th" >}} Century: Reform and "Decline"
 {{< tdclose >}}
 {{< tdopen >}}
 

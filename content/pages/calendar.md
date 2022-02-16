@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: a3743db5-acef-0db3-4ee7-a091991b19f6
 ---
@@ -41,7 +43,7 @@ Introduction to the Class
 
 Introduction and Overview:
 
-The Middle East in the 19th Century: Reform and "Decline"
+The Middle East in the 19{{< sup "th" >}} Century: Reform and "Decline"
 
 
 {{< tdclose >}}
