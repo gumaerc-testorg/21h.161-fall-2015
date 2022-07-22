@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, prerequisites, required readings, class format and requirements,
+  grading policy, and academic honesty.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 54cef485-2154-b428-cbc4-52dca39c8bef
 ---
@@ -17,7 +22,7 @@ There are no prerequisites for this course.
 Course Description
 ------------------
 
-This is an introductory course to the history of the Middle East in the "long Twentieth century," from the end of the 19th century until the present. The goal of this course is to introduce students to major political, social, intellectual and cultural issues and practices in the Middle East, focusing on important events, movements and ideas, which shaped the history of the Middle East during the last century and affect its current realities.
+This is an introductory course to the history of the Middle East in the "long Twentieth century," from the end of the 19{{< sup "th" >}} century until the present. The goal of this course is to introduce students to major political, social, intellectual and cultural issues and practices in the Middle East, focusing on important events, movements and ideas, which shaped the history of the Middle East during the last century and affect its current realities.
 
 The course will begin with a historical introduction to the Middle East in the late Ottoman period and the eve of imperialism at the beginning of the Twentieth century after World War I. We will then discuss the processes that led to the establishment of nation-states in the Middle East, focusing mainly on Turkey and Egypt as our case studies. We will look into the history of the Israeli-Palestinian conflict and its effect on the Middle East, the rise of political Islam and the Iranian Revolution, as well as the debates regarding Islam and democracy, and Islam post 9/11. The course will conclude with a discussion and analysis of the 2011 revolts in the Arab world and with today's realities in the Middle East.
 
@@ -30,7 +35,7 @@ Cleveland, William L., and Martin Bunton. _A History of the Modern Middle East_.
 
 Gelvin, James L. _The Modern Middle East: A History_. 3rd ed. Oxford University Press, 2011. ISBN: 9780199766055.
 
-Other required readings can be seen in the table in the [Readings]({{< baseurl >}}/pages/readings-and-videos) section.
+Other required readings can be seen in the table in the {{% resource_link f7f18db0-330d-5981-cb35-d9c0b0d2bb61 "Readings" %}} section.
 
 Class Format and Requirements
 -----------------------------
@@ -91,7 +96,7 @@ Final research paper
 
 {{< tableclose >}}
 
-For more information on the reaction / reflection papers and the final research paper, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For more information on the reaction / reflection papers and the final research paper, see the {{% resource_link 6adad5be-e8fb-2484-9c4a-8e09c5ae574a "Assignments" %}} section.
 
 Academic Honesty
 ----------------
