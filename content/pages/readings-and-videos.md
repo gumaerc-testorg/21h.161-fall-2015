@@ -268,7 +268,7 @@ The Arab Spring?
 
 Anderson, Lisa. "[Demystifying the Arab Spring: Parsing the Differences between Tunisia, Egypt and Libya](https://www.foreignaffairs.com/articles/libya/2011-04-03/demystifying-arab-spring)." *Foreign Affairs*, May / June 2011.
 
-Khalidi, Rashid. "[The Arab Spring](http://www.thenation.com/article/arab-spring/)." *The Nation*, March 21, 2011.
+Khalidi, Rashid. "[The Arab Spring](https://www.thenation.com/article/archive/arab-spring/)." *The Nation*, March 21, 2011.
 
 Byman, Daniel L. "[Israel's Pessimistic View of the Arab Spring](http://www.brookings.edu/research/articles/2011/06/israel-arab-spring-byman)." *The Washington Quarterly*, Summer 2011.
 
