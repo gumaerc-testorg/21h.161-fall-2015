@@ -180,7 +180,7 @@ Palestine, Israel and the Israeli–Palestinian Conflict I
 
 \[G\] Chapter 18: Israel, the Arab States, and the Palestinians.
 
-Beinin, Joel, and Lisa Hajjar. "[Primer on Palestine, Israel and the Arab–Israeli Conflict](https://web.stanford.edu/group/sper/images/Palestine-Israel_Primer_MERIP.pdf)." Middle East Research and Information Project, February 2014.
+Beinin, Joel, and Lisa Hajjar. ["Palestine, Israel and the Arab–Israeli Conflict: A Primer." (PDF)](https://merip.org/wp-content/uploads/2017/02/Primer_on_Palestine-IsraelMERIP_February2014final.pdf) Middle East Research and Information Project, February 2014.
 
 Shapira, Anita. "The Emergence of the Zionist Movement." Chapter 1 in *Israel: A History.* Translated from the Hebrew by Anthony Berris. Brandeis University Press, 2014. ISBN: 9781611686180.
 
