@@ -8,9 +8,9 @@ title: Assignments
 uid: 6adad5be-e8fb-2484-9c4a-8e09c5ae574a
 ---
 
-As part of the [CI-H](http://web.mit.edu/commreq/cih.html) subject requirements, there will be a total of 20 pages of written assignments in class. The written assignments will be divided into 2 reaction / reflection papers, 5 pages each. In addition there will be a 10–12 page final research paper.
+As part of the {{% resource_link "160e4113-b39a-4094-a70d-acf606720a37" "CI-H" %}} subject requirements, there will be a total of 20 pages of written assignments in class. The written assignments will be divided into 2 reaction / reflection papers, 5 pages each. In addition there will be a 10–12 page final research paper.
 
-Papers should be typed, double spaced, using Times New Roman 12, and follow the [Chicago Manual of Style](http://www.chicagomanualofstyle.org/home.html) instructions for footnotes, bibliography etc.
+Papers should be typed, double spaced, using Times New Roman 12, and follow the {{% resource_link "a9784dbf-557f-4c4b-a401-7bd392cecfb2" "Chicago Manual of Style" %}} instructions for footnotes, bibliography etc.
 
 Reaction / Reflection Papers
 ----------------------------

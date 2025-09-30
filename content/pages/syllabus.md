@@ -42,7 +42,7 @@ Class Format and Requirements
 
 The class meets twice a week. The first session of each week will consist of an introductory lecture that will treat the themes and readings for that week. The second session functions to promote class discussion and student-led discussion about the various reading assignments and other materials, as well as film screenings.
 
-This class is part of the [CI-H](http://web.mit.edu/commreq/cih.html) subject requirements, and hence emphasizes both writing and oral skills.
+This class is part of the {{% resource_link "160e4113-b39a-4094-a70d-acf606720a37" "CI-H" %}} subject requirements, and hence emphasizes both writing and oral skills.
 
 Grading Policy
 --------------
