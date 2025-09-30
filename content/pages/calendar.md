@@ -105,7 +105,7 @@ Nation-State Nationalism in the Middle East I: The Interwar Period
 
 ### Guest Speaker
 
-[Professor Lerna Ekmekcioĝlu](http://history.mit.edu/people/lerna-ekmekcioglu), Department of History, MIT.
+{{% resource_link "fa1b5661-59ce-4ce0-ab16-2355d2df9d6d" "Professor Lerna Ekmekcioĝlu" %}}, Department of History, MIT.
 
 
 {{< tdclose >}}
@@ -191,7 +191,7 @@ Second reaction / reflection paper due
 12
 {{< tdclose >}}
 {{< tdopen >}}
-Screening of [_Encounter Point_](http://www.imdb.com/title/tt0783517/). Directed by Julia Bacha. Color, 85 min. 2006.
+Screening of {{% resource_link "6fda9b44-c5ca-4f31-81d5-3d2aae40042c" "_Encounter Point_" %}}. Directed by Julia Bacha. Color, 85 min. 2006.
 {{< tdclose >}}
 {{< tdopen >}}
  
